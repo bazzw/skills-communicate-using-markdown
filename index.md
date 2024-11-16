@@ -3,7 +3,9 @@
 ## head2
 ##### head5
 ####### head7
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ``` typescript
 var myVar = "Hello, world!";
 ```
